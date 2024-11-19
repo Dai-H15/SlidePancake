@@ -1,4 +1,4 @@
-# INIAD++ex
+# SlidePancake
 
 ## 概要
 
