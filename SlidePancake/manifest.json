@@ -1,6 +1,6 @@
 {
     "name": "SlidePancake",
-    "version": "1.2.8",
+    "version": "1.2.9",
     "manifest_version": 3,
     "description": "iniad++の機能拡張",
     "content_scripts": [{
