@@ -1,10 +1,13 @@
 {
     "name": "SlidePancake",
-    "version": "1.2.4",
+    "version": "1.2.8",
     "manifest_version": 3,
     "description": "iniad++の機能拡張",
     "content_scripts": [{
-      "matches": ["https://docs.google.com/presentation/d/*"],
+      "matches": [
+        "https://docs.google.com/presentation/d/*",
+        "https://moocs.iniad.org/courses/*/*/*/*"
+      ],
       "js": [
         "dist/main.js"
       ]
